@@ -25,11 +25,13 @@ Structura site-ului:
 
     4.1- O lista cu serviciile pe care le prezinta firma.
     4.2- Descriere pentru fiecare serviciu, urmata de poze cu clientii.
-5. Angajati:
+5.Angajati:
 
 
     5.1- O prezentare a angajatilor si a domeniului in care activeaza.
     5.2- Prezentarea clientilor care au terminat un program.
+
+
 Cuvinte cheie: Masa musculara, Supliment, Grupa musculara, Cardio, Antrenor.
 
 Modele de site-uri:
