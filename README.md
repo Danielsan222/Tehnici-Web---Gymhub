@@ -30,7 +30,6 @@ Structura site-ului:
 
     5.1- O prezentare a angajatilor si a domeniului in care activeaza.
     5.2- Prezentarea clientilor care au terminat un program.
-
 Cuvinte cheie: Masa musculara, Supliment, Grupa musculara, Cardio, Antrenor.
 
 Modele de site-uri:
