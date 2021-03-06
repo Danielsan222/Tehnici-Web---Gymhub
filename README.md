@@ -25,7 +25,7 @@ Structura site-ului:
 
     4.1- O lista cu serviciile pe care le prezinta firma.
     4.2- Descriere pentru fiecare serviciu, urmata de poze cu clientii.
-5. Angajati – Clienti:
+5. Angajati:
 
 
     5.1- O prezentare a angajatilor si a domeniului in care activeaza.
@@ -37,8 +37,12 @@ Modele de site-uri:
 
 
 1.https://www.worldclass.ro/
-2.https://row.gymshark.com/
-3.https://www.coachmag.co.uk/ ( Mai mult in stilul unui blog)
+
+
+3.https://row.gymshark.com/
+
+
+5.https://www.coachmag.co.uk/ ( Mai mult in stilul unui blog)
 
 Am modificat cuvintele cheie, astfel incat site-ul sa aiba o orientare mai teoretica in schimbul ideii initiale de a fi un site doar pentru business.
 
