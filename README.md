@@ -34,9 +34,11 @@ Structura site-ului:
 Cuvinte cheie: Masa musculara, Supliment, Grupa musculara, Cardio, Antrenor.
 
 Modele de site-uri:
-https://www.worldclass.ro/
-https://row.gymshark.com/
-https://www.coachmag.co.uk/ ( Mai mult in stilul unui blog)
+
+
+1.https://www.worldclass.ro/
+2.https://row.gymshark.com/
+3.https://www.coachmag.co.uk/ ( Mai mult in stilul unui blog)
 
 Am modificat cuvintele cheie, astfel incat site-ul sa aiba o orientare mai teoretica in schimbul ideii initiale de a fi un site doar pentru business.
 
