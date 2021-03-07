@@ -1,5 +1,6 @@
 # Tehnici-Web---Gymhub
 
+<a href = "https://danielsan222.github.io"><strong>Link preview site </strong></a>
 
 PROIECT TEHNICI WEB – DROBNITCHI DANIEL NICUSOR
 
